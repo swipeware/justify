@@ -1,6 +1,8 @@
 A simple Corona SDK module. Includes a function that adjusts the spacing between the words on each line of the given text so that the left and right margins are the same. 
 The function returns a display group with a top-left anchor point.
- 
+
+Example output:  
+![Arabic](http://www.swipeware.com/apps/dl/justify_ghub_ar.png)_ ![English](http://www.swipeware.com/apps/dl/justify_ghub_en.png) 
  
 #Syntax
 ```
